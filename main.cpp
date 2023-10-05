@@ -1,5 +1,8 @@
-//1102055黃薔
-#include <iostream>
+/*** 
+ *   hw 20231005
+ *   @author: 1102055
+ *   @name: 黃薔
+ ***/#include <iostream>
 using namespace std;
 int Fib(int n)
 {
